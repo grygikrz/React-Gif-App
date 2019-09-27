@@ -1,0 +1,28 @@
+* {
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+body {
+    background-color: #161616;
+    background-image: url(https://media.giphy.com/media/l41m3kEii1SQJ7OSc/giphy.gif);
+    background-size: 30%;
+    color:#fff;
+}
+
+input[type="text"] {
+    padding: 20px;
+    border-radius: 9px;
+}
+
+button {
+    background-color: #0588d3;
+    border: 0px;
+    padding: 11px;
+    border-radius: 4px;
+    color: #fff;
+    height: 44px;
+    margin-top: 9px;
+    line-height: 14px;
+    font-weight: 600;
+    width: 14%;
+}
